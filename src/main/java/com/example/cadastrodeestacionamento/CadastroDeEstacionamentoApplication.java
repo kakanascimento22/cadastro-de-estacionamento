@@ -1,13 +1,13 @@
-package com.example.ProjetoFramework;
+package com.example.cadastrodeestacionamento;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjetoFrameworkApplication {
+public class CadastroDeEstacionamentoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjetoFrameworkApplication.class, args);
+		SpringApplication.run(CadastroDeEstacionamentoApplication.class, args);
 	}
 
 }

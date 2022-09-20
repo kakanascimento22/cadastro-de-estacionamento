@@ -1,10 +1,10 @@
-package com.example.ProjetoFramework;
+package com.example.cadastrodeestacionamento;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjetoFrameworkApplicationTests {
+class CadastroDeEstacionamentoApplicationTests {
 
 	@Test
 	void contextLoads() {
